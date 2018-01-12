@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+.article {
+    width: 600px;
+    border-left: 2px solid silver;
+    padding:30px;
+}
+.server-command {
+    padding: 5px;
+    background:#dddddd;
+}
+span {
+    padding: 3px 5px;
+    background:#dddddd;
+    border-radius: 2px;
+}
+span, .server-command {
+    font-size: 12px;
+    letter-spacing: 2px;
+    overflow: auto;
+}
+b {
+    display:block;
+    margin-bottom: 8px;
+}
+Test GitHub
